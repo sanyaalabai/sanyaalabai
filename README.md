@@ -17,14 +17,14 @@
 </picture>
 <picture align="center">
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&title_color=FB8C00&text_color=FEFEFE&icon_color=FB8C00&locale=ru&hide_border=true&bg_color=151515"
+    srcset="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&title_color=FB8C00&text_color=FEFEFE&icon_color=FB8C00&locale=ru&hide_border=true&bg_color=151515&hide=contribs"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&title_color=FB8C00&text_color=151515&icon_color=FB8C00&locale=ru&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&title_color=FB8C00&text_color=151515&icon_color=FB8C00&locale=ru&hide_border=true&hide=contribs"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&locale=ru" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&locale=ru&hide=contribs" />
 </picture>
 <picture align="center">
   <source
