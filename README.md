@@ -28,7 +28,7 @@
 </picture>
 <picture align="center">
   <source
-    srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23151515&qColor=%23FEFEFE&textColor=%23151515&aColor=%23FB8C00"
+    srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23151515&qColor=%23FEFEFE&textColor=%23FEFEFE&aColor=%23FB8C00"
     media="(prefers-color-scheme: dark)"
   />
   <source
