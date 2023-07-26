@@ -4,7 +4,7 @@
 <p>Открыт для предложений, если вам нужна помощь.</p>
 
 <h2 align="center">Немного статистики 🏆</h2>
-<div style="display:flex;flex-direction:column">
+<div style="display:flex;flex-direction:column;flex:500px">
   <picture>
     <source
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=DoggySasha&hide_border=true&theme=dark&locale=ru"
