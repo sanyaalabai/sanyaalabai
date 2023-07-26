@@ -4,39 +4,41 @@
 <p>Открыт для предложений, если вам нужна помощь.</p>
 
 <h2 align="center">Немного статистики 🏆</h2>
-<picture align="center">
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=DoggySasha&hide_border=true&theme=dark&locale=ru"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=DoggySasha&hide_border=true&locale=ru"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoggySasha&hide_border=true&locale=ru" />
-</picture>
-<picture align="center">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&title_color=FB8C00&text_color=FEFEFE&icon_color=FB8C00&locale=ru&hide_border=true&bg_color=151515&hide=contribs"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&title_color=FB8C00&text_color=151515&icon_color=FB8C00&locale=ru&hide_border=true&hide=contribs"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&locale=ru&hide=contribs" />
-</picture>
-<picture align="center">
-  <source
-    srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23151515&qColor=%23FEFEFE&textColor=%23FEFEFE&aColor=%23FB8C00"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23ffffff&qColor=%23151515&textColor=%23151515&aColor=%23FB8C00"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23ffffff&qColor=%23151515&textColor=%23151515&aColor=%23FB8C00" />
-</picture>
+<div style="display:flex;flex-direction:column">
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=DoggySasha&hide_border=true&theme=dark&locale=ru"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=DoggySasha&hide_border=true&locale=ru"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoggySasha&hide_border=true&locale=ru" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&title_color=FB8C00&text_color=FEFEFE&icon_color=FB8C00&locale=ru&hide_border=true&bg_color=151515&hide=contribs"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&title_color=FB8C00&text_color=151515&icon_color=FB8C00&locale=ru&hide_border=true&hide=contribs"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&locale=ru&hide=contribs" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23151515&qColor=%23FEFEFE&textColor=%23FEFEFE&aColor=%23FB8C00"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23ffffff&qColor=%23151515&textColor=%23151515&aColor=%23FB8C00"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23ffffff&qColor=%23151515&textColor=%23151515&aColor=%23FB8C00" />
+  </picture>
+</div>
 
 <h2 align="center">Дополнительно 🎭</h2>
 <p>Если хотите, то не откажусь от <a href="https://boosty.to/doggy.sasha">поддержки на Бусти</a>.</p>
