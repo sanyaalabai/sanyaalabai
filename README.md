@@ -3,7 +3,7 @@
 <p>Кроме программирования пытаюсь <b>создавать моды</b>, <b>карты</b> для разных игр и <b>помогать другим</b>.</p>
 <p>Открыт для предложений, если вам нужна помощь.</p>
 
-<h2>Немного статистики 🏆</h2>
+<h2 align="center">Немного статистики 🏆</h2>
 <picture align="center">
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=DoggySasha&hide_border=true&theme=dark&locale=ru"
@@ -17,7 +17,7 @@
 </picture>
 <picture align="center">
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&title_color=FB8C00&text_color=151515&icon_color=FB8C00&locale=ru&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&title_color=FB8C00&text_color=FEFEFE&icon_color=FB8C00&locale=ru&hide_border=true&bg_color=151515"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -28,7 +28,7 @@
 </picture>
 <picture align="center">
   <source
-    srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23ffffff&qColor=%23151515&textColor=%23151515&aColor=%23FB8C00"
+    srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23151515&qColor=%23FEFEFE&textColor=%23151515&aColor=%23FB8C00"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -38,6 +38,6 @@
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23ffffff&qColor=%23151515&textColor=%23151515&aColor=%23FB8C00" />
 </picture>
 
-## Дополнительно 🎭
+<h2 align="center">Дополнительно 🎭</h2>
 <p>Если хотите, то не откажусь от <a href="https://boosty.to/doggy.sasha">поддержки на Бусти</a>.</p>
 
