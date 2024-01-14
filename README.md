@@ -7,14 +7,14 @@
 <div style="display:flex;flex-direction:column;flex:500px;align-items:center">
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=DoggySasha&hide_border=true&theme=dark&locale=ru"
+      srcset="https://streak-stats.demolab.com?user=DoggySasha&theme=dark&locale=ru"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=DoggySasha&hide_border=true&locale=ru"
+      srcset="https://streak-stats.demolab.com/?user=DoggySasha&hide_border=true&locale=ru"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoggySasha&hide_border=true&locale=ru" />
+    <img src="https://streak-stats.demolab.com?user=DoggySasha&hide_border=true&locale=ru" />
   </picture>
   <picture>
     <source
