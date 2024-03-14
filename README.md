@@ -44,17 +44,17 @@
 
 | Проект | Язык | Описание | Версия |
 |--------|------|----------|--------|
-|[XEngine](https://github.com/XanytkaDevs/XEngine)|C++|Понятный, кроссплатформенный и полностью настраиваемый движок для создания игр и программ.|SelfBuild[^1]|
-|[XGLauncher](https://github.com/XanytkaDevs/XGLauncher)|C#, C++|Лаунчер от Xanytka Devs.|-|
+|[XEngine](https://github.com/xanytka-devs/xengine)|C++|Понятный, кроссплатформенный и полностью настраиваемый движок для создания игр и программ.|SelfBuild[^1]|
+|[XGLauncher](https://github.com/xanytka-devs/xglauncher)|C#, C++|Лаунчер от Xanytka Devs.|-|
 |[Сайт Xanytka](https://xanytka.ru/)|HTML, CSS, JS|Основной сайт экосистемы Xanytka.|1.0|
-|[Ритер](https://github.com/XanytkaDevs/Rinter)|Python|Ринтер - полезный Discord бот для развития сообщества и веселья.|0.1.2|
-|[XPhotos](https://github.com/XanytkaDevs/XPhotos)|C++, C#|Редактор для фотографий.|-|
-|[XGLauncher WPF](https://github.com/XanytkaDevs/XGLauncher-WPF)|C#|Лаунчер от Xanytka Devs, архивная версия.|0.1.6.1|
+|[Ритер](https://github.com/xanytka-devs/rinter)|Python|Ринтер - полезный Discord бот для развития сообщества и веселья.|0.1.2|
+|[Photo Edit](https://github.com/xanytka-devs/photo-edit)|C++, C#|Редактор для фотографий.|-|
+|[XGLauncher WPF](https://github.com/xanytka-devs/XGLauncher-WPF)|C#|Лаунчер от Xanytka Devs, архивная версия.|0.1.6.1|
 <!-- Всё ещё приватные
-|[AudioBump](https://github.com/XanytkaDevs/AudioBump)|C++|Библиотека для загрузки аудио файлов.|-|
-|[InstallHorizon](https://github.com/XanytkaDevs/InstallHorizion)|C#, C++|Библиотека для загрузки аудио файлов.|-|
-|[XaNotes Desktop](https://github.com/XanytkaDevs/Xanotes-desktop)|C#, C++|Приложение для более удобных и креативных заметок.|-|
-|[XaNotes Web](https://github.com/XanytkaDevs/Xanotes-web)|HTML, CSS, JS|Сайт для более удобных и креативных заметок.|-|
+|[AudioBump](https://github.com/xanytka-devs/audio-bump)|C++|Библиотека для загрузки аудио файлов.|-|
+|[InstallHorizon](https://github.com/xanytka-devs/install-horizion)|C#, C++|Библиотека для загрузки аудио файлов.|-|
+|[XaNotes Desktop](https://github.com/xanytka-devs/xanotes-desktop)|C#, C++|Приложение для более удобных и креативных заметок.|-|
+|[XaNotes Web](https://github.com/xanytka-devs/xanotes-web)|HTML, CSS, JS|Сайт для более удобных и креативных заметок.|-|
 -->
 <!--Позже можно добавить таблицу под моды и разделить сайты от основных проектов.-->
 [^1]: Нет релизных версий, но можно построить самостоятельно по инструкциям в `README.md`.
