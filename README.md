@@ -62,4 +62,10 @@
 <!--Позже можно добавить таблицу под моды и разделить сайты от основных проектов. Ну их пока недостаточно для разделения.-->
 
 <h2 align="center">Дополнительно 🎭</h2>
-<p>Если хотите, то не откажусь от <a href="https://boosty.to/doggy.sasha">поддержки на Бусти</a>. Также не забывайте, что у Xanytka Devs есть <a href="https://xanytka.ru/sl/xdd">Дискорд сервер</a> с поддержкой и всем подобным.</p>
+<span>
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-red?logo=youtube&logoColor=%23fff&link=https%3A%2F%2Fwww.youtube.com%2F%40doggysasha&label=">
+  <img alt="Twitch" src="https://img.shields.io/badge/Twitch-%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-purple?logo=twitch&logoColor=%23fff&link=https%3A%2F%2Fwww.twitch.tv%2Fdoggysasha&label=">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C-blue?logo=telegram&logoColor=%23fff&link=https%3A%2F%2Ft.me%2Fdoggyhut&label=">
+  <img alt="Discord" src="https://img.shields.io/discord/635140721908908049?style=flat&logo=discord&logoColor=fff&label=">
+  <img alt="Boosty" src="https://img.shields.io/badge/Boosty-%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-orange?logo=boosty&logoColor=%23fff&link=https%3A%2F%2Fboosty.to%2Fdoggy.sasha&label=">
+</span>
