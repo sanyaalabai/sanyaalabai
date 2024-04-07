@@ -63,8 +63,8 @@
 
 <h2 align="center">Дополнительно 🎭</h2>
 <span>
-  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-red?logo=youtube&logoColor=%23fff&link=https%3A%2F%2Fwww.youtube.com%2F%40doggysasha&label=">
-  <img alt="Twitch" src="https://img.shields.io/badge/Twitch-%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-purple?logo=twitch&logoColor=%23fff&link=https%3A%2F%2Fwww.twitch.tv%2Fdoggysasha&label=">
+  <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCT4zcPJsqBhDcaUaPRflfIg?style=flat&logo=youtube&logoColor=%23fff&label=%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C&labelColor=red">
+  <img alt="Twitch" src="https://img.shields.io/twitch/status/doggysasha?style=flat&logo=twitch&logoColor=%23fff&label=%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C&labelColor=purple&color=purple">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C-blue?logo=telegram&logoColor=%23fff&link=https%3A%2F%2Ft.me%2Fdoggyhut&label=">
   <img alt="Discord" src="https://img.shields.io/discord/635140721908908049?style=flat&logo=discord&logoColor=fff&label=">
   <img alt="Boosty" src="https://img.shields.io/badge/Boosty-%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-orange?logo=boosty&logoColor=%23fff&link=https%3A%2F%2Fboosty.to%2Fdoggy.sasha&label=">
