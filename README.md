@@ -45,7 +45,7 @@
 | Проект | Язык | Описание | Версия |
 |--------|------|----------|--------|
 |[Photo Edit](https://github.com/xanytka-devs/photo-edit)|C++|Редактор для фотографий.|-|
-|[XEditor](https://github.com/xanytka-devs/xeditor)|C++|Редактор среды XEngine.|0.1|
+|[XEditor](https://github.com/xanytka-devs/xeditor)|C++|Редактор среды XEngine.|0.1.1|
 |[XEngine](https://github.com/xanytka-devs/xengine)|C++|Понятный, кроссплатформенный и полностью настраиваемый движок для создания игр и программ.|0.1|
 |[XEngine Examples](https://github.com/xanytka-devs/xengine-examples)|C++|Примеры программ на XEngine.|-|
 |[XEngine Packages Website](https://github.com/xanytka-devs/xengine-packages-website)|HTML, CSS, JS|Официальный сайт по дистрибуции пакетов для XEngine.|1.1|
