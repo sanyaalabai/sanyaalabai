@@ -44,11 +44,11 @@
 
 | Проект | Язык | Описание | Версия |
 |--------|------|----------|--------|
-|[Photo Edit](https://github.com/xanytka-devs/photo-edit)|C++|Редактор для фотографий.|-|
 |[FSEditor](https://xanytka.ru/shared/fse)|C++|Редактор среды Firesteel.|0.1.3|
 |[Firesteel](https://github.com/xanytka-devs/firesteel)|C++|Понятный, кроссплатформенный и полностью настраиваемый движок для создания игр и программ.|0.1|
-|[XEngine Examples](https://github.com/xanytka-devs/fs-examples)|C++|Примеры программ на Firesteel.|-|
+|[Firesteel Examples](https://github.com/xanytka-devs/fs-examples)|C++|Примеры программ на Firesteel.|-|
 |[Firesteel Packages Website](https://github.com/xanytka-devs/fs-packages-website)|HTML, CSS, JS|Официальный сайт по дистрибуции пакетов для Firesteel.|1.2|
+|[Photo Edit](https://github.com/xanytka-devs/photo-edit)|C++|Редактор для фотографий.|-|
 |[XGLauncher](https://github.com/xanytka-devs/xglauncher)|C++|Лаунчер от Xanytka Devs.|-|
 |[XGLauncher WPF](https://github.com/xanytka-devs/XGLauncher-WPF)|C#|Лаунчер от Xanytka Devs, архивная версия.|0.1.6.1|
 |[Сайт Xanytka](https://xanytka.ru/)|HTML, CSS, JS|Основной сайт экосистемы Xanytka.|1.2|
@@ -57,8 +57,8 @@
 |[AudioBump](https://github.com/xanytka-devs/audio-bump)|C++|Библиотека для загрузки аудио файлов.|-|
 |[InstallHorizon](https://github.com/xanytka-devs/install-horizion)|C++|Библиотека для создания установщиков ПО.|-|
 |[Windowed](https://github.com/xanytka-devs/windowed)|C++|Библиотека для работы с окнами.|-|
-|[XaNotes Desktop](https://github.com/xanytka-devs/xanotes-desktop)|C++|Приложение для более удобных и креативных заметок.|-|
-|[XaNotes Web](https://github.com/xanytka-devs/xanotes-web)|HTML, CSS, JS|Сайт для более удобных и креативных заметок.|-|
+|[sidenotes Desktop](https://github.com/xanytka-devs/sidenotes-desktop)|C++|Приложение для более удобных и креативных заметок.|-|
+|[sidenotes Web](https://github.com/xanytka-devs/sidenotes-web)|HTML, CSS, JS|Сайт для более удобных и креативных заметок.|-|
 -->
 <!--Позже можно добавить таблицу под моды и разделить сайты от основных проектов. Ну их пока недостаточно для разделения.-->
 
