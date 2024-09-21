@@ -7,25 +7,25 @@
 <div style="display:flex;flex-direction:column;flex:500px;align-items:center">
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com?user=DoggySasha&theme=dark&locale=ru&hide_border=true"
+      srcset="https://streak-stats.demolab.com?user=sanyaalabai&theme=dark&locale=ru&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com/?user=DoggySasha&hide_border=true&locale=ru&hide_border=true"
+      srcset="https://streak-stats.demolab.com/?user=sanyaalabai&hide_border=true&locale=ru&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com?user=DoggySasha&hide_border=true&locale=ru" />
+    <img src="https://streak-stats.demolab.com?user=sanyaalabai&hide_border=true&locale=ru" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&title_color=FB8C00&text_color=FEFEFE&icon_color=FB8C00&locale=ru&hide_border=true&bg_color=151515&hide=contribs"
+      srcset="https://github-readme-stats.vercel.app/api?username=sanyaalabai&show_icons=true&title_color=FB8C00&text_color=FEFEFE&icon_color=FB8C00&locale=ru&hide_border=true&bg_color=151515&hide=contribs"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&title_color=FB8C00&text_color=151515&icon_color=FB8C00&locale=ru&hide_border=true&hide=contribs"
+      srcset="https://github-readme-stats.vercel.app/api?username=sanyaalabai&show_icons=true&title_color=FB8C00&text_color=151515&icon_color=FB8C00&locale=ru&hide_border=true&hide=contribs"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=DoggySasha&show_icons=true&locale=ru&hide=contribs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sanyaalabai&show_icons=true&locale=ru&hide=contribs" />
   </picture>
   <picture>
     <source
