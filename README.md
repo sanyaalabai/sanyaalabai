@@ -44,23 +44,28 @@
 
 | Проект | Язык | Описание | Версия |
 |--------|------|----------|--------|
-|[FSEditor](https://xanytka.ru/shared/fse)|C++|Редактор среды Firesteel.|0.1.3|
-|[Firesteel](https://github.com/xanytka-devs/firesteel)|C++|Понятный, кроссплатформенный и полностью настраиваемый движок для создания игр и программ.|0.1|
-|[Firesteel Examples](https://github.com/xanytka-devs/fs-examples)|C++|Примеры программ на Firesteel.|-|
-|[Firesteel Packages Website](https://github.com/xanytka-devs/fs-packages-website)|HTML, CSS, JS|Официальный сайт по дистрибуции пакетов для Firesteel.|1.2|
-|[Photo Edit](https://github.com/xanytka-devs/photo-edit)|C++|Редактор для фотографий.|-|
+|FS Editor 🔒|C++|Редактор виртуальной среды на движке Firesteel.|[0.2.0.6](https://xanytka.ru/shared/fse)|
+|[Firesteel](https://github.com/xanytka-devs/firesteel)|C++|Понятный, кроссплатформенный* и полностью настраиваемый движок для создания игр и программ.|0.2|
+|[Firesteel Packages Website](https://github.com/xanytka-devs/fs-packages-website)|HTML, CSS, JS|Официальный сайт по дистрибуции пакетов для Firesteel.|[1.2](https://xanytka.ru/p/)|
+|Photo Edit 🔒|C++|Редактор для фотографий.|-|
 |[XGLauncher](https://github.com/xanytka-devs/xglauncher)|C++|Лаунчер от Xanytka Devs.|-|
-|[XGLauncher WPF](https://github.com/xanytka-devs/XGLauncher-WPF)|C#|Лаунчер от Xanytka Devs, архивная версия.|0.1.6.1|
-|[Сайт Xanytka](https://xanytka.ru/)|HTML, CSS, JS|Основной сайт экосистемы Xanytka.|1.2|
-|[Ринтер](https://github.com/xanytka-devs/rinter)|PY|Полезный Discord бот для развития сообщества и веселья.|0.1.2|
+|[XGLauncher WPF](https://github.com/xanytka-devs/XGLauncher-WPF) 🕚|C#|Лаунчер от Xanytka Devs, архивная версия.|0.1.6.1|
+|Сайт Xanytka 🔒|HTML, CSS, JS|Основной сайт экосистемы Xanytka.|[1.2](https://xanytka.ru/)|
+|[Ринтер](https://github.com/xanytka-devs/rinter) 🕚|PY|Полезный Discord бот для развития сообщества и веселья.|0.1.2|
 <!-- Всё ещё приватные
+|[Firesteel Examples](https://github.com/xanytka-devs/fs-examples)|C++|Примеры программ на Firesteel.|-|
 |[AudioBump](https://github.com/xanytka-devs/audio-bump)|C++|Библиотека для загрузки аудио файлов.|-|
 |[InstallHorizon](https://github.com/xanytka-devs/install-horizion)|C++|Библиотека для создания установщиков ПО.|-|
 |[Windowed](https://github.com/xanytka-devs/windowed)|C++|Библиотека для работы с окнами.|-|
 |[sidenotes Desktop](https://github.com/xanytka-devs/sidenotes-desktop)|C++|Приложение для более удобных и креативных заметок.|-|
 |[sidenotes Web](https://github.com/xanytka-devs/sidenotes-web)|HTML, CSS, JS|Сайт для более удобных и креативных заметок.|-|
 -->
-<!--Позже можно добавить таблицу под моды и разделить сайты от основных проектов. Ну их пока недостаточно для разделения.-->
+<h2 align="center">Моды 🤠</h2>
+
+| Проект | Игра | Язык | Описание | Версия |
+|--------|------|------|----------|--------|
+|[Resource Pack Tutorial](https://github.com/sanyaalabai/resourcepack-tutorial)|Minecraft|MCMeta, JSON|Туториал по РП, который можно найти на [YouTube](https://youtube.com/playlist?list=PLm8njReuLwnUr9Mk860a0hAKq5bHtfwFv).|[1.3?](https://github.com/sanyaalabai/resourcepack-tutorial/archive/refs/heads/main.zip)|
+<!--Позже будет больше... Над остальным я всё ещё работаю, лол :P-->
 
 <h2 align="center">Дополнительно 🎭</h2>
 <span>
