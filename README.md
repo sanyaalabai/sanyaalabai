@@ -45,7 +45,7 @@
 | Проект | Язык | Описание | Версия |
 |--------|------|----------|--------|
 |FS Editor 🔒|C++|Редактор виртуальной среды на движке Firesteel.|[0.2.0.6](https://xanytka.ru/shared/fse)|
-|[Firesteel](https://github.com/xanytka-devs/firesteel)|C++|Понятный, кроссплатформенный* и полностью настраиваемый движок для создания игр и программ.|0.2|
+|[Firesteel](https://github.com/xanytka-devs/firesteel)|C++|Понятный, кроссплатформенный* и полностью настраиваемый движок для создания игр и программ.|[0.2](https://github.com/xanytka-devs/firesteel/releases/tag/v.0.2)|
 |[Firesteel Packages Website](https://github.com/xanytka-devs/fs-packages-website)|HTML, CSS, JS|Официальный сайт по дистрибуции пакетов для Firesteel.|[1.2](https://xanytka.ru/p/)|
 |Photo Edit 🔒|C++|Редактор для фотографий.|-|
 |[XGLauncher](https://github.com/xanytka-devs/xglauncher)|C++|Лаунчер от Xanytka Devs.|-|
@@ -53,6 +53,7 @@
 |Сайт Xanytka 🔒|HTML, CSS, JS|Основной сайт экосистемы Xanytka.|[1.2](https://xanytka.ru/)|
 |[Ринтер](https://github.com/xanytka-devs/rinter) 🕚|PY|Полезный Discord бот для развития сообщества и веселья.|0.1.2|
 <!-- Всё ещё приватные
+|[Firesteel Package Manager](https://github.com/xanytka-devs/fspm)|C++|Менеджер пакетов для Firesteel.|[1.0](https://github.com/xanytka-devs/fspm/releases/tag/v.1.0)|
 |[Firesteel Examples](https://github.com/xanytka-devs/fs-examples)|C++|Примеры программ на Firesteel.|-|
 |[AudioBump](https://github.com/xanytka-devs/audio-bump)|C++|Библиотека для загрузки аудио файлов.|-|
 |[InstallHorizon](https://github.com/xanytka-devs/install-horizion)|C++|Библиотека для создания установщиков ПО.|-|
@@ -72,6 +73,6 @@
   <a href="https://www.youtube.com/@sanyaalabai"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCT4zcPJsqBhDcaUaPRflfIg?style=flat&logo=youtube&logoColor=%23fff&label=%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C&labelColor=red"></a>
   <a href="https://www.twitch.tv/sanyaalabai"><img alt="Twitch" src="https://img.shields.io/twitch/status/sanyaalabai?style=flat&logo=twitch&logoColor=%23fff&label=%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C&labelColor=purple&color=purple"></a>
   <a href="https://t.me/doggyhut"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C-blue?logo=telegram&logoColor=%23fff&link=https%3A%2F%2Ft.me%2Fdoggyhut&label="></a>
-  <a href="https://discord.com/invite/5epp9EkPMf"><img alt="Discord" src="https://img.shields.io/discord/635140721908908049?style=flat&logo=discord&logoColor=fff&label="></a>
+  <a href="https://bsky.app/profile/alexalabai.bsky.social"><img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-Read-blue?logo=bluesky&logoColor=white&label=%20&labelColor=blue"></a>
   <a href="https://boosty.to/doggy.sasha"><img alt="Boosty" src="https://img.shields.io/badge/Boosty-%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-orange?logo=boosty&logoColor=%23fff&link=https%3A%2F%2Fboosty.to%2Fdoggy.sasha&label="></a>
 </span>
