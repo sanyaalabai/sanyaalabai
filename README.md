@@ -39,7 +39,7 @@
   </picture>
 </div>
 
-<h2 align="center">Проекты 🥽</h2>
+## Проекты 🥽
 
 | Проект | Язык | Описание | Версия |
 |--------|------|----------|--------|
@@ -53,21 +53,20 @@
 |[Ринтер](https://github.com/xanytka-devs/rinter) 🕚|PY|Полезный Discord бот для развития сообщества и веселья.|0.1.2|
 <!-- Всё ещё приватные
 |[Firesteel Package Manager](https://github.com/xanytka-devs/fspm)|C++|Менеджер пакетов для Firesteel.|[1.0](https://github.com/xanytka-devs/fspm/releases/tag/v.1.0)|
-|[Firesteel Examples](https://github.com/xanytka-devs/fs-examples)|C++|Примеры программ на Firesteel.|-|
 |[AudioBump](https://github.com/xanytka-devs/audio-bump)|C++|Библиотека для загрузки аудио файлов.|-|
 |[InstallHorizon](https://github.com/xanytka-devs/install-horizion)|C++|Библиотека для создания установщиков ПО.|-|
-|[Windowed](https://github.com/xanytka-devs/windowed)|C++|Библиотека для работы с окнами.|-|
 |[sidenotes Desktop](https://github.com/xanytka-devs/sidenotes-desktop)|C++|Приложение для более удобных и креативных заметок.|-|
 |[sidenotes Web](https://github.com/xanytka-devs/sidenotes-web)|HTML, CSS, JS|Сайт для более удобных и креативных заметок.|-|
 -->
-<h2 align="center">Моды 🤠</h2>
+## Моды ⚙️
 
 | Проект | Игра | Язык | Описание | Версия |
 |--------|------|------|----------|--------|
 |[Resource Pack Tutorial](https://github.com/sanyaalabai/resourcepack-tutorial)|Minecraft|MCMeta, JSON|Туториал по РП, который можно найти на [YouTube](https://youtube.com/playlist?list=PLm8njReuLwnUr9Mk860a0hAKq5bHtfwFv).|[1.3?](https://github.com/sanyaalabai/resourcepack-tutorial/archive/refs/heads/main.zip)|
+|[Dark Revival](https://github.com/sanyaalabai/dark-revival)|Minecraft|Java|Моя более крутая версия загробной жизни и врзраждения.|WIP|
 <!--Позже будет больше... Над остальным я всё ещё работаю, лол :P-->
 
-<h2 align="center">Дополнительно 🎭</h2>
+## Дополнительно 🎭
 <span>
   <a href="https://www.youtube.com/@sanyaalabai"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCT4zcPJsqBhDcaUaPRflfIg?style=flat&logo=youtube&logoColor=%23fff&label=%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C&labelColor=red"></a>
   <a href="https://www.twitch.tv/sanyaalabai"><img alt="Twitch" src="https://img.shields.io/twitch/status/sanyaalabai?style=flat&logo=twitch&logoColor=%23fff&label=%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C&labelColor=purple&color=purple"></a>
