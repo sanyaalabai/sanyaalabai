@@ -63,8 +63,7 @@
 | Проект | Игра | Язык | Описание | Версия |
 |--------|------|------|----------|--------|
 |[Resource Pack Tutorial](https://github.com/sanyaalabai/resourcepack-tutorial)|Minecraft|MCMeta, JSON|Туториал по РП, который можно найти на [YouTube](https://youtube.com/playlist?list=PLm8njReuLwnUr9Mk860a0hAKq5bHtfwFv).|[1.3?](https://github.com/sanyaalabai/resourcepack-tutorial/archive/refs/heads/main.zip)|
-|[Dark Revival](https://github.com/sanyaalabai/dark-revival)|Minecraft|Java|Моя более крутая версия загробной жизни и врзраждения.|WIP|
-<!--Позже будет больше... Над остальным я всё ещё работаю, лол :P-->
+|[Dark Revival](https://github.com/sanyaalabai/dark-revival)|Minecraft|Java|Более крутая версия загробной жизни и возрождения.|WIP|
 
 ## Дополнительно 🎭
 <span>
