@@ -58,12 +58,13 @@
 |[sidenotes Desktop](https://github.com/xanytka-devs/sidenotes-desktop)|C++|Приложение для более удобных и креативных заметок.|-|
 |[sidenotes Web](https://github.com/xanytka-devs/sidenotes-web)|HTML, CSS, JS|Сайт для более удобных и креативных заметок.|-|
 -->
-## Моды ⚙️
+## Модификации ⚙️
 
-| Проект | Игра | Язык | Описание | Версия |
-|--------|------|------|----------|--------|
-|[Resource Pack Tutorial](https://github.com/sanyaalabai/resourcepack-tutorial)|Minecraft|MCMeta, JSON|Туториал по РП, который можно найти на [YouTube](https://youtube.com/playlist?list=PLm8njReuLwnUr9Mk860a0hAKq5bHtfwFv).|[1.3?](https://github.com/sanyaalabai/resourcepack-tutorial/archive/refs/heads/main.zip)|
-|[Dark Revival](https://github.com/sanyaalabai/dark-revival)|Minecraft|Java|Более крутая версия загробной жизни и возрождения.|WIP|
+| Проект | Игра | Тип | Язык | Описание | Версия |
+|--------|------|-----|------|----------|--------|
+|[Resource Pack Tutorial](https://github.com/sanyaalabai/resourcepack-tutorial)|Minecraft|Ресурспак|MCMeta, JSON|Туториал по РП, который можно найти на [YouTube](https://youtube.com/playlist?list=PLm8njReuLwnUr9Mk860a0hAKq5bHtfwFv).|[1.3?](https://github.com/sanyaalabai/resourcepack-tutorial/archive/refs/heads/main.zip)|
+|Карта FNAH|Minecraft|Карта|MCMeta, JSON, MCfunction|Занимательный мультиплеерный порт игр серии FNAF в Minecraft.|[1.1](https://www.curseforge.com/minecraft/worlds/fnah)|
+|[Dark Revival](https://github.com/sanyaalabai/dark-revival)|Minecraft|Мод|Java|Более крутая версия загробной жизни и возрождения.|WIP|
 
 ## Дополнительно 🎭
 <span>
