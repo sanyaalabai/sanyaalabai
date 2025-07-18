@@ -1,9 +1,9 @@
-# Кратко обо мне 📡
+# 📡 Кратко обо мне
   Меня зовут Саня Алабай, альтернативно Alex Alabai. Я являюсь **разработчиком**, **дизайнером**, **ютубером**, **слегка маппером и модером**, а также **лидером объединения Xanytka**. Знаю и хорошо говорю на русском и английском.  
   Если вам необходимо что-либо запросить или предложить, то пишите мне в Telegram.
 
-<h2 align="center">Немного статистики 🏆</h2>
-<div style="display:flex;flex-direction:column;flex:500px;align-items:center">
+# 🏆 Немного статистики
+<div align="center">
   <picture>
     <source
       srcset="https://streak-stats.demolab.com?user=sanyaalabai&theme=dark&locale=ru&hide_border=true"
@@ -15,6 +15,7 @@
     />
     <img src="https://streak-stats.demolab.com?user=sanyaalabai&hide_border=true&locale=ru" />
   </picture>
+  <br>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=sanyaalabai&show_icons=true&title_color=FB8C00&text_color=FEFEFE&icon_color=FB8C00&locale=ru&hide_border=true&bg_color=151515&hide=contribs"
@@ -39,12 +40,11 @@
   </picture>
 </div>
 
-## Проекты 🥽
-
+## 🥽 Проекты 
 | Проект | Язык | Описание | Версия |
 |--------|------|----------|--------|
 |FS Editor 🔒|C++|Редактор виртуальной среды на движке Firesteel.|[0.2.0.6](https://xanytka.ru/shared/fse)|
-|[Firesteel](https://github.com/xanytka-devs/firesteel)|C++|Понятный, кроссплатформенный* и полностью настраиваемый движок для создания игр и программ.|[0.2](https://github.com/xanytka-devs/firesteel/releases/tag/v.0.2)|
+|[Firesteel](https://github.com/xanytka-devs/firesteel)|C++|Понятный, кроссплатформенный* и полностью настраиваемый движок для создания игр и программ.|[0.2.0](https://github.com/xanytka-devs/firesteel/releases/tag/v.0.2)|
 |[Firesteel Packages Website](https://github.com/xanytka-devs/fs-packages-website)|HTML, CSS, JS|Официальный сайт по дистрибуции пакетов для Firesteel.|[1.2](https://xanytka.ru/p/)|
 |Photo Edit 🔒|C++|Редактор для фотографий.|-|
 |[XGLauncher](https://github.com/xanytka-devs/xglauncher)|C++|Лаунчер от Xanytka Devs.|-|
@@ -58,8 +58,7 @@
 |[sidenotes Desktop](https://github.com/xanytka-devs/sidenotes-desktop)|C++|Приложение для более удобных и креативных заметок.|-|
 |[sidenotes Web](https://github.com/xanytka-devs/sidenotes-web)|HTML, CSS, JS|Сайт для более удобных и креативных заметок.|-|
 -->
-## Модификации ⚙️
-
+## ⚙️ Модификации
 | Проект | Игра | Тип | Язык | Описание | Версия |
 |--------|------|-----|------|----------|--------|
 |[Resource Pack Tutorial](https://github.com/sanyaalabai/resourcepack-tutorial)|Minecraft|Ресурспак|MCMeta, JSON|Туториал по РП, который можно найти на [YouTube](https://youtube.com/playlist?list=PLm8njReuLwnUr9Mk860a0hAKq5bHtfwFv).|[1.3?](https://github.com/sanyaalabai/resourcepack-tutorial/archive/refs/heads/main.zip)|
@@ -67,7 +66,7 @@
 |[Dark Revival](https://github.com/sanyaalabai/dark-revival) 🔒|Minecraft|Мод|Java|Более крутая версия загробной жизни и возрождения.|WIP|
 |[Freezing Storm](https://github.com/sanyaalabai/freezingstorm) 🔒|Minecraft|Мод|Java|Устали от старой доброй Границы мира? Тогда вам пора заменить её на этот шторм.|WIP|
 
-## Дополнительно 🎭
+## 🎭 Дополнительно
 <span>
   <a href="https://www.youtube.com/@sanyaalabai"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCT4zcPJsqBhDcaUaPRflfIg?style=flat&logo=youtube&logoColor=%23fff&label=%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C&labelColor=red"></a>
   <a href="https://www.twitch.tv/sanyaalabai"><img alt="Twitch" src="https://img.shields.io/twitch/status/sanyaalabai?style=flat&logo=twitch&logoColor=%23fff&label=%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C&labelColor=purple&color=purple"></a>
