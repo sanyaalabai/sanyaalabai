@@ -45,14 +45,15 @@
 |--------|------|----------|--------|
 |FS Editor 🔒|C++|Редактор виртуальной среды на движке Firesteel.|[0.2.0.6](https://xanytka.ru/shared/fse)|
 |[Firesteel](https://github.com/xanytka-devs/firesteel)|C++|Понятный, кроссплатформенный* и полностью настраиваемый движок для создания игр и программ.|[0.2.0](https://github.com/xanytka-devs/firesteel/releases/tag/v.0.2)|
+|[Firesteel Log Viewer](https://github.com/sanyaalabai/fs-log-viewer)|C++|Простенькая програмка для более удобного просмотра логов от Firesteel.|-|
 |[Firesteel Packages Website](https://github.com/xanytka-devs/fs-packages-website)|HTML, CSS, JS|Официальный сайт по дистрибуции пакетов для Firesteel.|[1.2](https://xanytka.ru/p/)|
 |Photo Edit 🔒|C++|Редактор для фотографий.|-|
 |[XGLauncher](https://github.com/xanytka-devs/xglauncher)|C++|Лаунчер от Xanytka Devs.|-|
 |[XGLauncher WPF](https://github.com/xanytka-devs/XGLauncher-WPF) 🕚|C#|Лаунчер от Xanytka Devs, архивная версия.|0.1.6.1|
 |Сайт Xanytka 🔒|HTML, CSS, JS|Основной сайт экосистемы Xanytka.|[1.2](https://xanytka.ru/)|
 |[Ринтер](https://github.com/xanytka-devs/rinter) 🕚|PY|Полезный Discord бот для развития сообщества и веселья.|0.1.2|
-<!-- Всё ещё приватные
-|[Firesteel Package Manager](https://github.com/xanytka-devs/fspm)|C++|Менеджер пакетов для Firesteel.|[1.0](https://github.com/xanytka-devs/fspm/releases/tag/v.1.0)|
+<!-- Всё ещё в первичной стадии разработки
+|[Firesteel Package Manager](https://github.com/xanytka-devs/fspm)|C++|Менеджер пакетов для проектов на Firesteel.|[1.0](https://github.com/xanytka-devs/fspm/releases/latest)|
 |[AudioBump](https://github.com/xanytka-devs/audio-bump)|C++|Библиотека для загрузки аудио файлов.|-|
 |[InstallHorizon](https://github.com/xanytka-devs/install-horizion)|C++|Библиотека для создания установщиков ПО.|-|
 |[sidenotes Desktop](https://github.com/xanytka-devs/sidenotes-desktop)|C++|Приложение для более удобных и креативных заметок.|-|
