@@ -45,7 +45,7 @@
 |--------|------|----------|--------|
 |FS Editor 🔒|C++|Редактор виртуальной среды на движке Firesteel.|[0.2.0.6](https://xanytka.ru/shared/fse)|
 |[Firesteel](https://github.com/xanytka-devs/firesteel)|C++|Понятный, кроссплатформенный* и полностью настраиваемый движок для создания игр и программ.|[0.2.0](https://github.com/xanytka-devs/firesteel/releases/tag/v.0.2)|
-|[Firesteel Log Viewer](https://github.com/sanyaalabai/fs-log-viewer)|C++|Простенькая програмка для более удобного просмотра логов от Firesteel.|-|
+|[Firesteel Log Viewer](https://github.com/sanyaalabai/fs-log-viewer)|C++|Простенькая програмка для более удобного просмотра логов от Firesteel.|[1.0](https://github.com/sanyaalabai/fs-log-viewer/releases/latest)|
 |[Firesteel Packages Website](https://github.com/xanytka-devs/fs-packages-website)|HTML, CSS, JS|Официальный сайт по дистрибуции пакетов для Firesteel.|[1.2](https://xanytka.ru/p/)|
 |Photo Edit 🔒|C++|Редактор для фотографий.|-|
 |[XGLauncher](https://github.com/xanytka-devs/xglauncher)|C++|Лаунчер от Xanytka Devs.|-|
