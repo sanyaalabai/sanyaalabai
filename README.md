@@ -63,7 +63,7 @@
 | Проект | Игра | Тип | Язык | Описание | Версия |
 |--------|------|-----|------|----------|--------|
 |[Resource Pack Tutorial](https://github.com/sanyaalabai/resourcepack-tutorial)|Minecraft|Ресурспак|MCMeta, JSON|Туториал по РП, который можно найти на [YouTube](https://youtube.com/playlist?list=PLm8njReuLwnUr9Mk860a0hAKq5bHtfwFv).|[1.5?](https://github.com/sanyaalabai/resourcepack-tutorial/archive/refs/heads/main.zip)|
-|Mystical Four Nights at Freddy's|Minecraft|Карта|MCMeta, JSON, MCfunction|Занимательный мультиплеерный порт игр серии FNAF в Minecraft.|[1.1](https://www.curseforge.com/minecraft/worlds/mfnaf)|
+|Mystical Four Nights at Freddy's|Minecraft|Карта|MCMeta, JSON, MCfunction|Занимательный мультиплеерный порт игр серии FNAF в Minecraft.|[1.7](https://www.curseforge.com/minecraft/worlds/mfnaf)|
 |[Dark Revival](https://github.com/sanyaalabai/dark-revival) 🔒|Minecraft|Мод|Java|Более крутая версия загробной жизни и возрождения.|WIP|
 |[Freezing Storm](https://github.com/sanyaalabai/freezingstorm) 🔒|Minecraft|Мод|Java|Устали от старой доброй Границы мира? Тогда вам пора заменить её на этот шторм.|WIP|
 |[Kaban Central](https://github.com/sanyaalabai/kaban-central) 🔒|Minecraft|Мод|Java|Мод для одноимённого сервера.|WIP|
