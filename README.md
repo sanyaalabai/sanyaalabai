@@ -43,6 +43,7 @@
 ## 🥽 Проекты 
 | Проект | Язык | Описание | Версия |
 |--------|------|----------|--------|
+|[etaBoard](https://github.com/sanyaalabai/etaboard)|Java|Простая и стильная каомодзи клавиатура.|[1.0](https://github.com/sanyaalabai/etaboard/releases/latest)|
 |FS Editor 🔒|C++|Редактор виртуальной среды на движке Firesteel.|[0.2.0.6](https://xanytka.ru/shared/fse)|
 |[Firesteel](https://github.com/xanytka-devs/firesteel)|C++|Понятный, кроссплатформенный* и полностью настраиваемый движок для создания игр и программ.|[0.2.0](https://github.com/xanytka-devs/firesteel/releases/tag/v.0.2)|
 |[Firesteel Packages Website](https://github.com/xanytka-devs/fs-packages-web)|HTML, CSS, JS|Официальный сайт по дистрибуции пакетов для Firesteel.|[1.2](https://xanytka.ru/p/)|
