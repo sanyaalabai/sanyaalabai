@@ -67,7 +67,7 @@
 |Mystical Four Nights at Freddy's|Minecraft|Карта|MCMeta, JSON, MCfunction|Занимательный мультиплеерный порт игр серии FNAF в Minecraft.|[1.7](https://www.curseforge.com/minecraft/worlds/mfnaf)|
 |[Dark Revival](https://github.com/sanyaalabai/dark-revival) 🔒|Minecraft|Мод|Java|Более крутая версия загробной жизни и возрождения.|WIP|
 |[Freezing Storm](https://github.com/sanyaalabai/freezingstorm) 🔒|Minecraft|Мод|Java|Устали от старой доброй Границы мира? Тогда вам пора заменить её на этот шторм.|WIP|
-|[Kaban Central](https://github.com/sanyaalabai/kaban-central) 🔒|Minecraft|Мод|Java|Мод для одноимённого сервера.|WIP|
+|Kaban Central 🔒|Minecraft|Мод|Java|Мод для одноимённого сервера.|[1.1.6](https://modrinth.com/mod/kaban-central)|
 
 ## 🎭 Дополнительно
 <span>
