@@ -43,7 +43,7 @@
 ## 🥽 Проекты 
 | Проект | Язык | Описание | Версия |
 |--------|------|----------|--------|
-|[etaBoard](https://github.com/sanyaalabai/etaboard)|Java|Простая и стильная каомодзи клавиатура.|[1.0](https://github.com/sanyaalabai/etaboard/releases/latest)|
+|[etaBoard](https://github.com/sanyaalabai/etaboard) 🕚|Java|Простая и стильная каомодзи клавиатура.|[1.0](https://github.com/sanyaalabai/etaboard/releases/latest)|
 |FS Editor 🔒|C++|Редактор виртуальной среды на движке Firesteel.|[0.2.0.6](https://xanytka.ru/shared/fse)|
 |[Firesteel](https://github.com/xanytka-devs/firesteel)|C++|Понятный, кроссплатформенный* и полностью настраиваемый движок для создания игр и программ.|[0.2.1](https://github.com/xanytka-devs/firesteel/releases/tag/v.0.2.1)|
 |[Firesteel Packages Website](https://github.com/xanytka-devs/fs-packages-web)|HTML, CSS, JS|Официальный сайт по дистрибуции пакетов для Firesteel.|[1.2](https://xanytka.ru/p/)|
@@ -51,10 +51,11 @@
 |Photo Edit 🔒|C++|Редактор для фотографий.|-|
 |[XGLauncher](https://github.com/xanytka-devs/xglauncher)|C++|Лаунчер от Xanytka Devs.|-|
 |[XGLauncher WPF](https://github.com/xanytka-devs/XGLauncher-WPF) 🕚|C#|Лаунчер от Xanytka Devs, архивная версия.|0.1.6.1|
+|[Firesteel Log Viewer](https://github.com/sanyaalabai/fs-log-viewer)|C++|Простенькая програмка для более удобного просмотра логов от Firesteel.|[1.1](https://github.com/sanyaalabai/fs-log-viewer/releases/latest)|
+|Сайт Kaban Central 🔒|HTML, CSS, JS|Сервер для Minecraft сервера.|[1.1](https://kaban-central.ru/)|
 |Сайт Xanytka 🔒|HTML, CSS, JS|Основной сайт экосистемы Xanytka.|[1.2](https://xanytka.ru/)|
 |[Ринтер](https://github.com/xanytka-devs/rinter) 🕚|PY|Полезный Discord бот для развития сообщества и веселья.|0.1.2|
 <!-- Всё ещё в первичной стадии разработки
-|[Firesteel Log Viewer](https://github.com/sanyaalabai/fs-log-viewer)|C++|Простенькая програмка для более удобного просмотра логов от Firesteel.|[1.0](https://github.com/sanyaalabai/fs-log-viewer/releases/latest)|
 |[AudioBump](https://github.com/xanytka-devs/audio-bump)|C++|Библиотека для загрузки аудио файлов.|-|
 |[InstallHorizon](https://github.com/xanytka-devs/install-horizion)|C++|Библиотека для создания установщиков ПО.|-|
 |[sidenotes Desktop](https://github.com/xanytka-devs/sidenotes-desktop)|C++|Приложение для более удобных и креативных заметок.|-|
@@ -63,11 +64,17 @@
 ## ⚙️ Модификации
 | Проект | Игра | Тип | Язык | Описание | Версия |
 |--------|------|-----|------|----------|--------|
-|[Resource Pack Tutorial](https://github.com/sanyaalabai/resourcepack-tutorial)|Minecraft|Ресурспак|MCMeta, JSON|Туториал по РП, который можно найти на [YouTube](https://youtube.com/playlist?list=PLm8njReuLwnUr9Mk860a0hAKq5bHtfwFv).|[1.5?](https://github.com/sanyaalabai/resourcepack-tutorial/archive/refs/heads/main.zip)|
-|Mystical Four Nights at Freddy's|Minecraft|Карта|MCMeta, JSON, MCfunction|Занимательный мультиплеерный порт игр серии FNAF в Minecraft.|[1.7](https://www.curseforge.com/minecraft/worlds/mfnaf)|
-|[Dark Revival](https://github.com/sanyaalabai/dark-revival) 🔒|Minecraft|Мод|Java|Более крутая версия загробной жизни и возрождения.|WIP|
-|[Freezing Storm](https://github.com/sanyaalabai/freezingstorm) 🔒|Minecraft|Мод|Java|Устали от старой доброй Границы мира? Тогда вам пора заменить её на этот шторм.|WIP|
+|[Better With Features](https://github.com/sanyaalabai/better-with-features)|Minecraft|Мод|Java|BTA mod to fix technical user-friendliness gaps in features between Beta and modern Minecraft|[1.0](https://modrinth.com/mod/better-with-features)|
+|[How hungry?](https://modrinth.com/mod/how-hungry)|Minecraft|Мод|Java|Modify hunger system as much as you want|[1.2.0](https://github.com/crystallized-dreams/how-hungry)|
 |Kaban Central 🔒|Minecraft|Мод|Java|Мод для одноимённого сервера.|[1.1.6](https://modrinth.com/mod/kaban-central)|
+|[Locked In](https://modrinth.com/mod/lockedin)|Minecraft|Мод|Java|Overhaul of vanilla's hidden lock feature|[1.0.1](https://github.com/crystallized-dreams/locked-in)|
+|Mystical Four Nights at Freddy's|Minecraft|Карта|MCMeta, JSON, MCfunction|Занимательный мультиплеерный порт игр серии FNAF в Minecraft.|[1.7](https://www.curseforge.com/minecraft/worlds/mfnaf)|
+|[Real Brewery](https://modrinth.com/mod/real-brewery)|Minecraft|Мод|Java|Random brewery and new status effects|[1.0.0](https://github.com/crystallized-dreams/real-brewery)|
+|[Resource Pack Tutorial](https://github.com/sanyaalabai/resourcepack-tutorial)|Minecraft|Ресурспак|MCMeta, JSON|Туториал по РП, который можно найти на [YouTube](https://youtube.com/playlist?list=PLm8njReuLwnUr9Mk860a0hAKq5bHtfwFv).|[1.5?](https://github.com/sanyaalabai/resourcepack-tutorial/archive/refs/heads/main.zip)|
+|StormBound 🔒|Minecraft|Мод|Java|Устали от старой доброй Границы мира? Тогда вам пора заменить её на этот шторм.|-|
+|Русификатор BTA!|Minecraft|Набор языков|Java|Переводит Better Than Adventure! на Русский язык. Также имеет поддержку нескольких модов.|[1.0](https://modrinth.com/mod/russificator-bta)|
+
+<!--|Dark Revival 🔒|Minecraft|Мод|Java|Более крутая версия загробной жизни и возрождения.|WIP|-->
 
 ## 🎭 Дополнительно
 <span>
