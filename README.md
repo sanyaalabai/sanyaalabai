@@ -18,17 +18,6 @@
   <br>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=sanyaalabai&show_icons=true&title_color=FB8C00&text_color=FEFEFE&icon_color=FB8C00&locale=ru&hide_border=true&bg_color=151515&hide=contribs"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=sanyaalabai&show_icons=true&title_color=FB8C00&text_color=151515&icon_color=FB8C00&locale=ru&hide_border=true&hide=contribs"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=sanyaalabai&show_icons=true&locale=ru&hide=contribs" />
-  </picture>
-  <picture>
-    <source
       srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23151515&qColor=%23FEFEFE&textColor=%23FEFEFE&aColor=%23FB8C00"
       media="(prefers-color-scheme: dark)"
     />
@@ -43,12 +32,13 @@
 ## 🥽 Проекты 
 | Проект | Язык | Описание | Версия |
 |--------|------|----------|--------|
+|[cool-lib](https://github.com/sanyaalabai/cool-lib)|HTML, CSS, JS|Cool and Simple Web Library for (mostly) styling|TBD|
 |[etaBoard](https://github.com/sanyaalabai/etaboard) 🕚|Java|Простая и стильная каомодзи клавиатура.|[1.0](https://github.com/sanyaalabai/etaboard/releases/latest)|
 |FS Editor 🔒|C++|Редактор виртуальной среды на движке Firesteel.|[0.2.0.6](https://xanytka.ru/shared/fse)|
 |[Firesteel](https://github.com/xanytka-devs/firesteel)|C++|Понятный, кроссплатформенный* и полностью настраиваемый движок для создания игр и программ.|[0.2.1](https://github.com/xanytka-devs/firesteel/releases/tag/v.0.2.1)|
 |[Firesteel Packages Website](https://github.com/xanytka-devs/fs-packages-web)|HTML, CSS, JS|Официальный сайт по дистрибуции пакетов для Firesteel.|[1.2](https://xanytka.ru/p/)|
 |[Firesteel Package Manager](https://github.com/xanytka-devs/fspm)|C++|Менеджер пакетов для проектов на Firesteel.|[1.0](https://github.com/xanytka-devs/fspm/releases/latest)|
-|Photo Edit 🔒|C++|Редактор для фотографий.|-|
+|[tube.png](https://github.com/sanyaalabai/tube-png)|C++|Overcomplicated and cool program for PNGtubing|[1.0.1](https://github.com/sanyaalabai/tube-png/releases/latest)|
 |[XGLauncher](https://github.com/xanytka-devs/xglauncher)|C++|Лаунчер от Xanytka Devs.|-|
 |[XGLauncher WPF](https://github.com/xanytka-devs/XGLauncher-WPF) 🕚|C#|Лаунчер от Xanytka Devs, архивная версия.|0.1.6.1|
 |[Firesteel Log Viewer](https://github.com/sanyaalabai/fs-log-viewer)|C++|Простенькая програмка для более удобного просмотра логов от Firesteel.|[1.1](https://github.com/sanyaalabai/fs-log-viewer/releases/latest)|
